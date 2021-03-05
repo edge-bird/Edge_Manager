@@ -1,2 +1,7 @@
 # Edge_Manager
-A good tool for your life and study.
+
+1.  本产品由边缘白鸟全权负责
+
+2.  如果有想要加的模块可以自己加，主题也可以自己改
+
+3.  目前不支持除 windows 以外的系统使用。
